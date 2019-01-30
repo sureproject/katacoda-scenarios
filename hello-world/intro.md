@@ -1,1 +1,1 @@
-Welcome to your first Katacoda Scenario!
+Kubernetes หรือเรียกสั้น ๆ ว่า K8s เป็นระบบจัดการ Docker containers ที่สามารถเพิ่มลดการทำงานของระบบได้ดี จนเรียกได้ว่าระบบไม่มีวันล่ม โดยในบทเรียนนี้ เราจะทดลองสร้างระบบ Kubernetes ในคอมพิวเตอร์ส่วนตัว โดยใช้ Minikube
