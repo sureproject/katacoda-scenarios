@@ -25,9 +25,9 @@
     }
   },
   "environment": {
-    "uilayout": ""
+    "uilayout": "terminal"
   },
   "backend": {
-    "imageid": ""
+    "imageid": "terminal"
   }
 }
