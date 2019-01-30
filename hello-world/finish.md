@@ -1,1 +1,1 @@
-You've completed your first Katacoda scenario!
+ติดตามการใช้งาน Kubernetes ได้ในบทเรียนต่อไป
