@@ -1,8 +1,8 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "การติดตั้ง Kubernetes",
+  "description": "วิธีการติดตั้ง Kubernates ใน Ubuntu 16.04 LTS เพื่อทำระบบเว็บแอปพลิเคชั่นเซิร์ฟเวอร์",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "5  นาที",
   "details": {
     "steps": [
       {
@@ -28,7 +28,7 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal."
   },
   "backend": {
     "imageid": "bash"
