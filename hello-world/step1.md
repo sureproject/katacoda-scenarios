@@ -1,7 +1,13 @@
-This is your first step.
+## วิธีการติดตั้ง Minikube
 
-## Task
+สามารถติดตั้ง Minikube โดยดาวน์โหลดมาด้วยคำสั่งนี้
 
-This is an _example_ of creating a scenario and running a **command**
+`curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64`{{execute}}
 
-`echo 'Hello World'`{{execute}}
+ตั้งค่าให้ minikube สามารถทำงานได้ ด้วยคำสั่ง
+
+`chmod +x minikube`{{execute}}
+
+จากนั้นทำการเพิ่ม Minikube ไปที่ /usr/local/bin เพื่อจะทำการเรียกใช้ได้ง่าย
+
+`sudo cp minikube /usr/local/bin && rm minikube`{{execute}}
