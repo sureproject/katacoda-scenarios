@@ -25,7 +25,7 @@
     }
   },
   "environment": {
-    "uilayout": "Bash"
+    "uilayout": ""
   },
   "backend": {
     "imageid": ""
